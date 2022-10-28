@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Chaitanya\'s Price List</string>
+    <string name="title">Chaitanya\'s Store</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="additem">additem</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_price">Item Price</string>
+    <string name="submit">Submit</string>
+    <string name="time">time</string>
+    <string name="items">ITEMS</string>
+    <string name="add_item">Add Item</string>
+    <string name="item_quantity">Item Quantity</string>
+    <string name="tap_and_hold_on_the_item_that_you_want_to_remove">(Tap and hold on the item that you want to remove!)</string>
+    <string name="todo">TODO</string>
+</resources>
